@@ -7,3 +7,5 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-th
 
 ![logo](/content/notes/images/05.png)
 
+![logo](content/notes/images/05.png)
+
